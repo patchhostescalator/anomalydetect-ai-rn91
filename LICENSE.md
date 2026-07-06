@@ -1,4 +1,4 @@
-# 
+# VIP AnomalyDetect installeur. Téléchargez et installez avec support communautaire et mode hors ligne — rapide, sécurisé et facile à utiliser.
 
 
 
